@@ -26,6 +26,6 @@
 <div style="display: flex; align-items: center;">
     <img align="left" alt="kiss" height="60" width="60" src="https://media.tenor.com/r6z9Vb0rA5MAAAAi/flying-kiss-smooch.gif" style="margin-right: 10px;">
     <div>
-        <h4 style="margin-top: 10px; margin-bottom: 10px;">Thank you for visiting me🥰🥰</h4>
+        <h4 style="margin-top: 10px; margin-bottom: 10px;">Thank you for visiting🥰🥰</h4>
     </div>
 </div>
