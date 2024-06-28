@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Aru-2359&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
-<img align = "right" alt = "coding" height = "300" width = "380" src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" ></img>
+
+<img align = "right" alt = "coding" height = "250" width = "330" src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" ></img>
 <h1>Hi! I am Arunetri!</h1>
 🌱 I’m currently learning Tensorflow<br>💬 Ask me about anything, I'll try my best to answer :)<br>📫 Reach me by arunetridhar421@gmail.com
 
