@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Arunetri</h1>
 <h3 align="center">I'm a tech enthusiast with a strong passion for <i>Machine Learning</i>, <i>Data Science</i>, and <i>Web Development</i>. I love diving into new technologies, exploring data, and building dynamic web applications. My projects are a blend of creativity and technical expertise, aiming to solve real-world problems and push the boundaries of what's possible.🌕💫</h3>
 
-<img align = "right" alt = "coding" height = "285" width = "350" src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" ></img>
+<img align = "right" alt = "coding" height = "280" width = "350" src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" ></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aru-2359&label=Profile%20views&color=0e75b6&style=flat" alt="aru-2359" /> </p>
 
 - 🌱 I’m currently learning **Tensorflow**
