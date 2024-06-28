@@ -23,7 +23,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aru-2359&limit=5&theme=light,unicorn&combine_all_yearly_contributions=true)
-
----
+<div style="display: flex; align-items: center;">
+    <img align="left" alt="kiss" height="60" width="60" src="https://media.tenor.com/r6z9Vb0rA5MAAAAi/flying-kiss-smooch.gif" style="margin-right: 10px;">
+    <div>
+        <h4 style="margin-top: 10px; margin-bottom: 10px;">Thank you for visiting me🥰🥰</h4>
+    </div>
+</div>
