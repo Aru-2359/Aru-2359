@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Aru-2359&icon=4&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Aru-2359&color=blueviolet&label=VISITOR+COUNT&abbreviated=true)
 <img align = "right" alt = "coding" height = "300" width = "330" src = "https://github.com/Aru-2359/Aru-2359/assets/107833788/fd839ab2-32b2-497f-be0e-675250a3a255" ></img>
 
 <h1>Hi! I am Arunetri!</h1>
